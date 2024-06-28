@@ -38,4 +38,4 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Si tienes ideas para nu
 
 ## Licencia
 
-Este proyecto está bajo la Licencia ManuInc.
+Este proyecto está bajo la Licencia JuzD.
